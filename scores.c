@@ -9,5 +9,10 @@ int main(void){
 
    printf("Average: %f\n", (scores[0] + scores[1] + scores[2]) / 3.0);
 
-   
+   //Create a variable called myNum of type int and assign the value 15 to it:
+int myNum;
+myNum = 15;
+
+
+
 }

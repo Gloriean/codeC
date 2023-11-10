@@ -17,5 +17,10 @@ bool isProgramming = true;
 
 
 //Comparing values and variables and using boolean specifier
+int x = 40, y = 10;
 
+printf("%d, x is greater than y\n\n", x > y);
+printf("%d, x is not equal to y\n\n", x == y);
+printf("%d, y is not greater than or equal to x\n\n", y >= x);
+return 0;
 }
