@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
+#include <string.h>
 
 int main(void){
     //Let's think of a "real life example" where we need to find out if a person is old enough to vote.
