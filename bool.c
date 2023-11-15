@@ -5,7 +5,7 @@
 int main(void){
     
 bool isProgramming = true;
-    bool isHustlingEasy = false;
+bool isHustlingEasy = false;
 
     printf("%d\n", isProgramming);
     printf("%d\n", isHustlingEasy);

@@ -13,19 +13,5 @@ int main(void){
 int myNum;
 myNum = 15;
 
-char str1[30] = " Hello, ";
-char str2[30] = " World! ";
-
-strcpy(str2, str1);
-printf("%s\n", str2);
-
 return 0;
-
-char txt1[20] = "greetings";
-char txt2[] = "respect";
-
-strcat(txt1, txt2);
-
-printf("%s\n", txt1);
-
 }

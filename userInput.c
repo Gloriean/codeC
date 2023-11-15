@@ -33,9 +33,6 @@ int main(){
 
     printf("Hello %s\n", firstName);
     
-
-
-
     return 0;
 
 }
