@@ -7,11 +7,11 @@ void myFunction(char firstName[], int age){
     
 int main(void){
     
-    myFunction("Julius", 26);
-    myFunction("Glory", 24);
+    myFunction("Esther", 26);
+    myFunction("Ridwan", 24);
     myFunction("Olamide", 25);
 
     return 0;
-    }
+}
 
 
